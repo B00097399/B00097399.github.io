@@ -1,0 +1,261 @@
+/*this file is: indexstyle.css */
+body {
+	background: url(images/background.jpg);
+	background-attachment: fixed;
+}
+
+#Headimg {
+	border-radius: 50%
+}
+
+#name {
+	color: black;
+}
+
+H1 {
+	color: white;
+}
+
+header{
+	text-align: center;
+}
+
+a{
+	color: black;
+}
+
+a:hover{
+	color: lightgray;
+}
+
+a:active{
+	color: white;
+}
+
+footer{
+	clear: left;
+	text-align: center;
+	position: fixed;
+	width: 100%;
+	bottom: 0;
+	background-color: grey;
+	left: 0;
+	right: 0;
+}
+
+nav{
+	text-align: center;
+	font-family: Apple Chancery, cursive;
+	font-size: 0.9em;
+}
+
+#home {
+	font-size: 3em;
+	padding-left: 50px;
+	font-family: Courier, monospace
+}
+
+* {
+	font-style: monospace, sans-serif;
+}
+.Title1 {
+	color: black;
+	font-size: 1.7em;
+}
+.Title2 {
+	color: black;
+	font-size: 1.4em
+}
+
+.Title3 {
+	color: black;
+	font-size: 1.15em;
+}
+
+.Title4 {
+	color: black;
+	font-size: 1em;
+}
+
+.Sub1 {
+	color: white;
+	font-size: 1.7em;
+}
+
+.Sub2 {
+	color: white;
+	font-size: 1.4em;
+}
+
+.Sub3 {
+	color: white;
+	font-size: 1.15em;
+}
+
+.Sub4 {
+	color: white;
+	font-size: 1em;
+}
+
+.Para {
+	color: white;
+	font-size: 0.75em;
+}
+
+.Content {
+	padding: 5px;
+}
+
+.hr {
+	padding-right: 100px;
+}
+
+main {
+	width: 960px;
+	margin: auto;
+	padding-bottom: 100px;
+}
+
+#first {
+	width: 450px;
+	height: 400px;
+	float: left;
+	margin: 5px;
+	background-color: #666666;
+}
+
+#second {
+	width: 220px;
+	height: 400px;
+	float: left;
+	margin: 5px;
+	background-color: #666666;
+}
+#third {
+	width: 220px;
+	height: 400px;
+	float: left;
+	margin: 5px;
+	background-color: #666666;
+}
+#fourth {
+	width: 450px;
+	height: 350px;
+	float: left;
+	margin: 5px;
+	background-color: #666666;
+}
+#fifth {
+	width: 220px;
+	height: 350px;
+	float: left;
+	margin: 5px;
+	background-color: #666666;
+}
+#sixth {
+	width: 220px;
+	height: 350px;
+	float: left;
+	margin: 5px;
+	background-color: #666666;
+}
+
+#fourthimgs {
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+
+br {
+	clear: left;
+}
+
+#education {
+	width: 450px;
+	height: 600px;
+	float: left;
+	margin: 5px;
+	background-color: rgba(102, 102, 102, 0.9);
+	font-size: 1em;
+	color: white;
+}
+
+#hobbies {
+	width: 450px;
+	height: 600px;
+	float: left;
+	margin: 5px;
+	background-color: rgba(102, 102, 102, 0.9);
+	font-size: 2.5em;
+	color: white;
+}
+
+#bio {
+	width: 430px;
+	height: 580px;
+	float: left;
+	margin: 5px;
+	background-color: rgba(102, 102, 102, 0.9);
+	font-size: 1.75em;
+	color: white;
+	padding: 10px;
+}
+
+#contact {
+	width: 450px;
+	height: 600px;
+	float: left;
+	margin: 5px;
+	background-color: rgba(102, 102, 102, 0.9);
+	font-size: 1.8em;
+	color: white;
+}
+
+#blanch {
+	margin: 10px;
+}
+
+.picture {
+	display: inline;
+	float: left;
+	margin: 10px;
+}
+
+.Ninja {
+	text-align: center;
+	z-index: 3;
+}
+
+.Ninjatitle {
+	font-size: 3em;
+}
+
+.cartoon {
+	text-align: center;
+	z-index: 2;
+}
+
+.Cartoontitle {
+	font-size: 3em;
+}
+
+.card {
+	text-align: center;
+	z-index: 1;
+}
+
+.Cardtitle {
+	font-size: 3em;
+}
+
+.video {
+	float: left;
+}
+
+.return {
+	color: white;
+}
+
+.fullsize {
+	text-align: center;
+}
